@@ -1,4 +1,4 @@
-update=19/11/2016 21:37:04
+update=19/06/2018 23:18:50
 last_client=kicad
 [general]
 version=1
@@ -34,5 +34,8 @@ LibName2=/travail/electronique/kicad/share/modules/libcms
 version=1
 LibDir=../../../Schema Kicad
 [eeschema/libraries]
-LibName1=power
-LibName2=D:/electronique/git-f4deb/git-f4deb-cen-electronic-library/CEN-SCHEMA
+LibName1=CPU_DEB-rescue
+LibName2=power
+LibName3=/media/f4deb/travail/electronique/git-f4deb/git-f4deb-cen-electronic-library/CEN-SCHEMA
+LibName4=conn
+LibName5=switches
